@@ -263,6 +263,10 @@ The following example ``shouldAcceptNewConnecton`` functions displays the differ
 - 09.06.2020 Follow Up question for encryption
 - 10.06.2020 Clearance of Encrypted Disclosure
 - 12.06.2020 Disclosure of the LPE
+- 15.06.2020 Partial Fix for CVE-2020-15349 (LPE)
+- 16.06.2020 Disclosure of Entitlements LPE
+- 19.06.2020 Disclosure of only partial fix of CVE-2020-15349
+- 19.08.2020 Fix of CVE-2020-27192 and Final Fix for CVE-2020-15349
 
 # Resources
 
