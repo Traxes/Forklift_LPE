@@ -258,8 +258,8 @@ The following example ``shouldAcceptNewConnecton`` functions displays the differ
 
 # Disclosure Timeline
 
-- 08.06.2020 Initial Contact for Mail
-- 08.06.2020 Response to send at the same mail unencrypted
+- 08.06.2020 Initial Contact for Mail Address
+- 08.06.2020 Response to send the same mail unencrypted
 - 09.06.2020 Follow Up question for encryption
 - 10.06.2020 Clearance of Encrypted Disclosure
 - 12.06.2020 Disclosure of the LPE
